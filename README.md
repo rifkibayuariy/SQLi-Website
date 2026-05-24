@@ -86,33 +86,8 @@ https://rifkibayuariyan-sqli-detection-api.hf.space/docs
 Model tracking and versioning are managed using DagsHub MLflow.
 
 ### DagsHub Repository
-
-```bash
 https://dagshub.com/rifkibayuariy/sqli-detection
-```
 
----
-
-# How It Works
-
-```text
-User Input
-    │
-    ▼
-Next.js Frontend
-    │
-    ▼
-API Request to Hugging Face
-    │
-    ▼
-FastAPI + ML Model
-    │
-    ▼
-Prediction Result
-    │
-    ▼
-Frontend Visualization
-```
 
 ---
 
