@@ -112,7 +112,7 @@ export default function Footer() {
 
                   <div className="mt-5 space-y-4 text-sm">
                     <a
-                      href="https://github.com/"
+                      href="https://github.com/rifkibayuariy/SQLi-Website"
                       target="_blank"
                       className="flex items-center gap-2 text-gray-400 hover:text-purple-300 transition"
                     >
