@@ -254,10 +254,4 @@ This application is not intended to replace enterprise-grade Web Application Fir
 
 ## Rifki Bayu Arianto
 
-Database Engineer & Web Developer
-
----
-
-# License
-
-MIT License
+Web Developer
